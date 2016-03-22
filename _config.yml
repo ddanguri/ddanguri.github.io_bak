@@ -11,7 +11,7 @@ author: "ddanguri"
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
-  highlight_color: "#dcdcdc" #205081" # "#272935"
+  highlight_color: "#dcdcdc","#205081","#272935"
   # Social media links, leave blank to ignore
   social:
     github: ddanguri
