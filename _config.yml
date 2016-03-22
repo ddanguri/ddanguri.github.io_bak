@@ -3,16 +3,15 @@ title: Life of a Developer
 tagline: And Tagline
 email: gayanvirajith@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  For better future
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://ddanguri.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 author: "ddanguri"
-author_thumbnail: "/assets/images/me.png" # Author avatar
+#author_thumbnail: "/assets/images/me.png" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
-  highlight_color: "#205081" #205081" # "#272935"
+  highlight_color: "#dcdcdc" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social:
     github: ddanguri
