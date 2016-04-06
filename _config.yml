@@ -1,7 +1,7 @@
 # Site settings
 title: Life of a Developer
 tagline: And Tagline
-email: gayanvirajith@gmail.com
+email: sweet.khg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://ddanguri.github.io" # the base hostname & protocol for your site
