@@ -53,6 +53,6 @@ bower는 .bowerrc 파일에 정보를 입력한다. 파일이 없으면 사용�
 ### Bash shell
 
 ```Command
-export http_proxy=[proxyAddress]:[port]
-export https_proxy=[proxyAddress]:[port]
+$ export http_proxy=[proxyAddress]:[port]
+$ export https_proxy=[proxyAddress]:[port]
 ```
