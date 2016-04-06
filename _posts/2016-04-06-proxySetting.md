@@ -8,7 +8,9 @@ comments: true
 
 보통 프록시 정보를 확인하려면
 1. 인터넷 정보 > 연결 tab > LAN 설정 > 자동 구성 스크립트 사용 부분의 주소값의 정보를 보거나,
+
 2. command Line에서 ``` netsh winhttp show proxy ```
+
 3. 아예 [.exe 실행파일](https://github.com/xmedeko/WinProxyViewer/releases)로 만든 사람도 있다.
 
 
