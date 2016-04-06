@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Atom theme&package setting"
+date:   2016-04-16 19:07:49
+categories: setting
+comments: true
+---
 
 ## Atom 설정
 
