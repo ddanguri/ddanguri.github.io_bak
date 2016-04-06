@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "npm,git,bower proxy setting"
-date:   2016-04-16 19:07:49
-categories: etc
+date:   2016-04-06 01:07:49
+categories:
+- setting
 comments: true
 ---
 

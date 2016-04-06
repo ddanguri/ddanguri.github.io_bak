@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem"
+date:   2016-04-05 19:07:49
+categories:
+- error
+comments: true
+---
 
 오늘 jekyll 을 빌드하니 아래와 같이 에러가 난다. -_-
 

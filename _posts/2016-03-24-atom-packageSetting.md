@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Atom theme&package setting"
-date:   2016-04-16 19:07:49
-categories: setting
+date:   2016-03-24 19:07:49
+categories:
+- setting
 comments: true
 ---
 
-## Atom 설정
+개인적으로 사용하는 Atom setting 정리
 
 ### [Seti UI](https://atom.io/themes/seti-ui), [Seti Syntax](https://atom.io/themes/seti-syntax) - 사용하고 있는 UI 및 Syntax
 
