@@ -41,7 +41,9 @@ markdown: kramdown
 permalink:        pretty
 
 # Pagination config
+gems : [jekyll-paginate]
 paginate: 5
+paginate_path: "page:num"
 
 # Files/Folders to be excluded from generated _site folder
 exclude:
